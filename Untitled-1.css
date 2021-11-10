@@ -1,21 +1,53 @@
-.image {
-    width: 150px;
-}
 .entete{
     font-family: verdana; 
     padding-top :           00px;
     height:         300px;
-    background-color:   #b4b4b4;
+    background-color:   #e6a568;
+    
+}
+.enteteA{
+    font-family: verdana; 
+    padding-top :           00px;
+    height:         300px;
+    background-color:   #a4c754;
+    
+}
+.image{
+    float: right;
+    width: 152px;
+}
+#Image1{
+    float: right;
+    width: 50%;
 }
 
-.img{
-    text-align: right;
-}
+.box {
+    background-color: #567895;
+  }
 
-.Experience{
+.format{
     text-align: center;
     font-family: verdana; 
+    background-color:   #b8b8b8;
 }
 
 
+a.bouton2 {
+    padding: 1% 1%;
+    background: #c7b0e0;
+    color: #000000;
+    font-weight: bold;
+    font-size: 100%;
+    }
+    a.bouton2:hover {
+    background: #25caf3;
+    color: #a0a0a0;
+    }
 
+    .GOLF7GTI {
+        width: 620px;
+    }
+
+    .QRCODE {
+        float: right;
+    }
